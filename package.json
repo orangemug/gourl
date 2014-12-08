@@ -2,7 +2,7 @@
   "name": "gourl",
   "version": "0.1.0",
   "description": "Open a url from a processes stdout",
-  "scripts": {
+  "bin": {
     "gourl": "./bin/cli.js"
   },
   "repository": {

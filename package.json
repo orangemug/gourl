@@ -1,6 +1,6 @@
 {
   "name": "gourl",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Open a url from a processes stdout",
   "bin": {
     "gourl": "./bin/cli.js"

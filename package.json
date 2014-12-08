@@ -1,0 +1,19 @@
+{
+  "name": "gourl",
+  "version": "0.1.0",
+  "description": "Open a url from a processes stdout",
+  "scripts": {
+    "gourl": "./bin/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:orangemug/gourl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/orangemug/gourl/issues"
+  },
+  "dependencies": {
+    "byline": "^4.1.1",
+    "open": "0.0.5"
+  }
+}

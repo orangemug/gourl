@@ -1,6 +1,6 @@
 {
   "name": "openurl",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Open a url from a processes stdout",
   "bin": {
     "openurl": "./bin/cli.js"

@@ -12,6 +12,7 @@
   "bugs": {
     "url": "https://github.com/orangemug/gourl/issues"
   },
+  "license" : "MIT",
   "dependencies": {
     "byline": "^4.2.1",
     "open": "0.0.5",

@@ -1,6 +1,6 @@
 {
   "name": "gourl",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Open a url from a processes stdout",
   "bin": {
     "gourl": "./bin/cli.js"
@@ -12,7 +12,7 @@
   "bugs": {
     "url": "https://github.com/orangemug/gourl/issues"
   },
-  "license" : "MIT",
+  "license": "MIT",
   "dependencies": {
     "byline": "^4.2.1",
     "open": "0.0.5",

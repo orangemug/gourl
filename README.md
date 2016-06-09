@@ -1,6 +1,14 @@
 # openurl
 Open a url from a processes output, by default it'll wait for the first 100 lines or 2 seconds.
 
+[![circleci](https://circleci.com/gh/orangemug/openurl.png?style=shield)][circleci]
+[![Dependency Status](https://david-dm.org/orangemug/openurl.svg)][dm-prod]
+[![Dev Dependency Status](https://david-dm.org/orangemug/openurl/dev-status.svg)][dm-dev]
+
+[circleci]:  https://circleci.com/gh/orangemug/openurl
+[dm-prod]:   https://david-dm.org/orangemug/openurl
+[dm-dev]:    https://david-dm.org/orangemug/openurl#info=devDependencies
+
 Basically it'll open anything from stdout of the format `<http://example.com>`.
 
 

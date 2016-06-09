@@ -1,16 +1,16 @@
 {
-  "name": "gourl",
+  "name": "openurl",
   "version": "0.2.0",
   "description": "Open a url from a processes stdout",
   "bin": {
-    "gourl": "./bin/cli.js"
+    "openurl": "./bin/cli.js"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:orangemug/gourl.git"
+    "url": "git@github.com:orangemug/openurl.git"
   },
   "bugs": {
-    "url": "https://github.com/orangemug/gourl/issues"
+    "url": "https://github.com/orangemug/openurl/issues"
   },
   "license": "MIT",
   "dependencies": {
